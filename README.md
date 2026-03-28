@@ -1,2 +1,3 @@
 # tauri-extensions
-tauri-extensions
+
+Some extensions for the Tauri Core
