@@ -3,11 +3,11 @@ name = "tauri-extensions"
 links = "tauri-extensions"
 version = "0.1.0"
 edition = "2021"
-description = "tauri plugin for ui svg icons"
+description = "tauri extensions... themes, templates, router"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/blockz-code/ffbins-rs"
+repository = "https://github.com/p1mo/tauri-extensions"
 readme = "README.md"
-keywords = ["ui", "icons", "tauri", "js", "svg"]
+keywords = ["themes", "templates", "tauri", "router"]
 categories = ["development-tools"]
 authors = ["p1mo <101986259+p1mo@users.noreply.github.com>"]
 
